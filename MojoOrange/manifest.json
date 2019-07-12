@@ -1,10 +1,12 @@
 {
   "manifest_version": 2,
   "name": "Spectrum - Mojo Orange",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "theme": {
     "colors": {
-      "frame": [207, 77, 41]
+      "frame": [207, 77, 41],
+      "toolbar": [207, 77, 41],
+      "toolbar_button_icon": [255, 255, 255]
     },
     "tints": {
       "frame_inactive": [-1, 0.5, 0.35],
