@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Spectrum - Mojo Orange",
+  "version": "0.1",
+  "theme": {
+    "colors": {
+      "background_tab": [219, 166, 151],
+      "frame": [207, 77, 41]
+    }
+  }
+}
